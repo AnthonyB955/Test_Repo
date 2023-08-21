@@ -4,3 +4,5 @@ Learning how to get better using git commands.
 2. Writing git commits the right way.
 3. Learn how to use GitHub CLI.
 
+I have added an authored-by and refs number footer.
+Next, use the resolves number footer.
