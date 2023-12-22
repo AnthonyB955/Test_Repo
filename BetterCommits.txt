@@ -1,0 +1,7 @@
+Automation!
+We can tell git to setup our commit messages with this structure.
+This is done by setting commit.template in ~/.gitconfig:
+
+[commit]
+  template = ~/.gitmessage
+
