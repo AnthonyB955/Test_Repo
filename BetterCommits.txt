@@ -1,3 +1,6 @@
+Starting with this structure forces you to answer why the change is necessary 
+before outlining the changes that you have made towards this goal.
+
 Automation!
 We can tell git to setup our commit messages with this structure.
 This is done by setting commit.template in ~/.gitconfig:
