@@ -47,3 +47,21 @@ $\color{red}{\textsf{fatal: []: FAILED! => {
 # text in gray
 @@ text in purple (and bold)@@
 ```
+
+- `docs/`
+    > A placeholder directory for your project documentation and a [docs readme template]() to help you get started.
+
+
+```markdown
+- fatal: []: FAILED! => {
+-   "msg": "template error while templating string: unexpected char \"'\" at 41. String: {{ mongodb_packages.mongodb_app_installer'] }}"
+- }
+```
+
+<font color="red">
+ fatal: []: FAILED! => {
+   "msg": "template error while templating string: unexpected char \"'\" at 41. String: {{ mongodb_packages.mongodb_app_installer'] }}"
+ }</font>
+
+
+<font color="red">This is some text!</font>
