@@ -113,8 +113,6 @@ X^2^
 ## Other code
 ---
 
-I need to highlight these ==very important words==.
-
 $\color{red}{\textsf{lorem ipsum}}$
 
 $\color{red}{\textsf{fatal: []: FAILED! => {
